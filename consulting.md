@@ -3,8 +3,6 @@ layout: page
 title: Consulting
 permalink: /consulting/
 ---
-Consulting
-
 I take on a small number of independent advisory engagements with organisations and startups outside financial services.
 
 My work is focused on four areas:
